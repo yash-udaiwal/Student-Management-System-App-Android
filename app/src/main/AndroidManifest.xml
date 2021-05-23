@@ -14,7 +14,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".actions"></activity>
+        <activity android:name=".websiteadd"></activity>
+        <activity android:name=".actions" />
         <activity android:name=".Navigation2" />
         <activity android:name=".branch" />
         <activity android:name=".mech" />
