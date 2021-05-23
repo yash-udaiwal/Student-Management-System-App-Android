@@ -47,7 +47,7 @@ public class Navigation1 extends AppCompatActivity {
                 switch (menu_id) {
                     case R.id.web:
                         Toast.makeText(Navigation1.this, "ACET Home Opening", Toast.LENGTH_SHORT).show();
-                        Intent i2 = new Intent(Navigation1.this, portal.class);
+                        Intent i2 = new Intent(Navigation1.this, websiteadd.class);
                         startActivity(i2);
                         break;
 
